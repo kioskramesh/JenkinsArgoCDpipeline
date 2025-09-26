@@ -18,6 +18,6 @@ spec:
         - name: dockerhub-secret
        containers:
          - name: spring-boot-app
-           image: harshitha224/jenkinsargocdpipeline:27
+           image: harshitha224/jenkinsargocdpipeline:28
            ports:
            - containerPort: 8080
